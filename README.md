@@ -1,6 +1,6 @@
 # Pokédex Android
 
-O objetivo principal deste projeto é consumir a [PokéApi](https://pokeapi.co/). em uma aplicação android nativa, mapeando os JSON’s retornados pela API para classes Java, utilizando a biblioteca [GSON](https://github.com/google/gson).
+O objetivo principal deste projeto é consumir a [PokéApi](https://pokeapi.co/) em uma aplicação android nativa, mapeando os JSON’s retornados pela API para classes Java, utilizando a biblioteca [GSON](https://github.com/google/gson).
 Otimizar as requisições HTTP com o [Retrofit](https://square.github.io/retrofit/).
 Para carregar imagens no RecyclerView vamos utilizar a biblioteca [Picasso](https://square.github.io/picasso/).
 
