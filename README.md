@@ -41,5 +41,4 @@ dependencies {
 }
 ```
 ## APK
-
-[Pokédex](https://drive.google.com/open?id=1mMw0zfBDtuM9ptltFPrLjF5zp3dfli-s)
+Instale o apk do aplicativo pelo link a seguir: [App Pokédex](https://drive.google.com/open?id=1mMw0zfBDtuM9ptltFPrLjF5zp3dfli-s)
